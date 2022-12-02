@@ -69,7 +69,7 @@ I have used an open source app framework Streamlit in Python language. It helps 
 
 3. Prediction: You can see the results model have predicted below 
 
-<img width="896" alt="Screenshot 2022-12-03 at 1 39 54 AM" src="https://user-images.githubusercontent.com/64124824/205378284-42248b35-a991-48de-b533-a5b91405051c.png">
+<img width="500" alt="Screenshot 2022-12-03 at 1 39 54 AM" src="https://user-images.githubusercontent.com/64124824/205378284-42248b35-a991-48de-b533-a5b91405051c.png">
 
 
  
